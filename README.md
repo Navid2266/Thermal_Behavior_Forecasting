@@ -1,6 +1,6 @@
 # Thermal Behavior Forecasting
 
-This repository contains a **time-aware machine learning pipeline** for predicting indoor temperatures in residential apartments using sensor data. It is built with **PyTorch** and handles irregular time series data, heating durations, and temporal features.
+This repository contains a **time-aware machine learning pipeline** for predicting indoor temperatures in residential apartments using sensor data. Built with PyTorch, it handles irregular time series, heating durations, and temporal features. Note: This is a sample of the project; the full project is still in progress and is subject to company confidentiality policies.
 
 ---
 
